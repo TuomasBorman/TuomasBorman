@@ -1,4 +1,8 @@
-### Hi there 👋
+### Tuomas Borman 
+<a href="https://www.linkedin.com/in/tuomasborman/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TuomasBorman&show_icons=true&count_private=true&theme=dark" width="350"></a>
+
 
 <!--
 **TuomasBorman/TuomasBorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
