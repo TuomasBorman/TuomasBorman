@@ -4,6 +4,15 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TuomasBorman&show_icons=true&count_private=true&theme=default" width="350"></a>
 
 
+## [Bioconductor](https://bioconductor.org) contributions
+
+### As maintainer
+
+| Package | BioC-devel | BioC-release |
+|:----------------:|:----------------:|:----------------:|
+| [_mia_](https://github.com/microbiome/mia) | [![](https://bioconductor.org/shields/build/devel/bioc/mia.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/mia) |[![](http://bioconductor.org/shields/build/release/bioc/mia.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/mia) |
+| [_miaViz_](https://github.com/microbiome/miaViz) | [![](https://bioconductor.org/shields/build/devel/bioc/miaViz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/miaViz) |[![](http://bioconductor.org/shields/build/release/bioc/miaViz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/miaViz) |
+
 <!--
 **TuomasBorman/TuomasBorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
