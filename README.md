@@ -16,7 +16,24 @@
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TuomasBorman&show_icons=true&count_private=true&theme=highcontrast" width="350"></a>
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TuomasBorman&theme=dark&background=000000)](https://git.io/streak-stats)
+
+## Stats
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=TuomasBorman&theme=dark&background=00000" />
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=TuomasBorman&style=flat-square&abbreviated=true)
+
+### Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,py,git,sqlite" />
+  </a>
+</p>
 
 <!--
 **TuomasBorman/TuomasBorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
