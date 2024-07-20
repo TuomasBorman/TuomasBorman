@@ -19,9 +19,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuomasBorman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TuomasBorman&show_icons=true&count_private=true&theme=highcontrast" width="350"></a>
--->
 
 ## Stats
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TuomasBorman&show_icons=true&count_private=false&theme=highcontrast" width="350"></a>
 
 <p align="left">
   <a href="https://git.io/streak-stats">
@@ -29,7 +30,10 @@
   </a>
 </p>
 
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=TuomasBorman)
+
 ![](https://komarev.com/ghpvc/?username=TuomasBorman&style=flat-square&abbreviated=true)
+
 
 ### Languages and Tools
 
@@ -38,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=r,py,git,sqlite" />
   </a>
 </p>
-
+-->
 <!--
 **TuomasBorman/TuomasBorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
