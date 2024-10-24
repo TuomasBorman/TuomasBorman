@@ -18,6 +18,7 @@
 | [_miaViz_](http://bioconductor.org/packages/release/bioc/html/miaViz.html) | Package | Maintainer | Bioconductor | [GitHub](https://github.com/microbiome/miaViz) | [![](https://bioconductor.org/shields/build/release/bioc/miaViz.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/miaViz) | [![](https://bioconductor.org/shields/build/devel/bioc/miaViz.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/miaViz) |
 | [_OMA_](https://microbiome.github.io/OMA/docs/devel/) | Book | Maintainer | GitHub | [GitHub](https://github.com/microbiome/OMA) | | |
 | [_scater_](http://bioconductor.org/packages/release/bioc/html/scater.html) | Package | Contributor | Bioconductor | [GitHub](https://github.com/alanocallaghan/scater) | [![](https://bioconductor.org/shields/build/release/bioc/scater.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scater) | [![](https://bioconductor.org/shields/build/devel/bioc/scater.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scater) |
+| [_vegan_](https://cran.r-project.org/web/packages/vegan/index.html) | Package | Contributor | CRAN | [GitHub](https://github.com/vegandevs/vegan) | | |
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuomasBorman&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
